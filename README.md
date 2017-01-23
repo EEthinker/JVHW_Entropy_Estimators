@@ -7,4 +7,4 @@ Please refer to the IPython notebooks for demos.
 
 # MATLAB version
 
-Please refer to the test scripts ``test_entro.m'' and ``test_MI.m'' for demos. 
+Please refer to the test scripts test_entro.m and test_MI.m for demos. 
